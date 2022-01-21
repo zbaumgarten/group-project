@@ -8,15 +8,15 @@ body {
     color: #555;
 }
 header {
-    background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
+    background: linear-gradient(to bottom right, rgb(2, 114, 2), #333);
     color: white;
-    padding: 25px;
+    padding: 50px;
 }
 header h1 {
     margin: 0;
 }
 main h2 {
-    color: black;
+    color: rgb(165, 140, 0);
     text-decoration: underline;
 }
 .container {
